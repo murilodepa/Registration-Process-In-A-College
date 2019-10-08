@@ -1,9 +1,9 @@
 # Processo de Matrículas em Uma Faculdade
 
-## Processo simplificado que realiza matriculas e outras funcionalidades, baseado em uma Faculdade.
+## Processo simplificado que realiza matrículas e outras funcionalidades, baseado em uma Faculdade.
 
 ### Descrição do Projeto
-   * Trata-se de um programa que contém diversas funcionalidades, como por exemplo realizar a matrícula de alunos e cancelar matrículas, cadastrar disciplinas que os alunos iram cursar, os seus respectivos professores e entre outras, pode estar sendo observado com mais detalhe no PDF, anexado junto ao arquivo fonte, abaixo pode-ser observado uma imagem da tela inicial do projeto e a tela menu, onde é possível estar escolhendo uma das funcionalidades e retornando para essa tela, o projeto foi baseado de modo que evite todos os erros possíveis, não permitindo nomes com números e nem Registro de Alunos (RA) ou Registro de Professores (RP) com letras, e também, contendo outras verificações como por exemplo alunos repetidos e cadastrar alunos na mesma disciplina na turma 1 e 2 ou "A" e "B", não permitindo, priorizando o cadastro do aluno da primeira turma cadastrada no sistema e entre outras verificações, na tentativa do programa se aproximar ao máximo com um sistema de matrícula completo.
+   * Trata-se de um programa que contém diversas funcionalidades, como por exemplo realizar a matrícula de alunos e cancelar matrículas, cadastrar disciplinas que os alunos iram cursar, os seus respectivos professores e entre outras, pode estar sendo observado com mais detalhe no PDF, anexado junto ao arquivo fonte, abaixo pode-se observado uma imagem da tela inicial do projeto e a tela menu, onde é possível estar escolhendo uma das funcionalidades e retornando para essa tela, o projeto foi baseado de modo que evite todos os erros possíveis, não permitindo nomes com números e nem Registro de Alunos (RA) ou Registro de Professores (RP) com letras, e também, contendo outras verificações como por exemplo alunos repetidos e cadastrar alunos na mesma disciplina na turma 1 e 2 ou "A" e "B", não permitindo, priorizando o cadastro do aluno da primeira turma cadastrada no sistema e entre outras verificações, na tentativa do programa se aproximar ao máximo com um sistema de matrícula completo.
 
 * Abaixo pode ser observado a tela inicial:
 ![TelaInicial](https://user-images.githubusercontent.com/56207941/66441007-77629500-ea0b-11e9-93cf-112fa247f236.PNG)
@@ -40,12 +40,12 @@
    * **Observação:** Para desenvolver este projeto, precisa apenas de conhecimentos básicos sobre lógica de programação e linguagem de programação C.
 
 ### Guia de instalação
-* Para executar o programa na linguagem C, no qual o algoritmo foi realizado, necessita apenas de um compilador e uma IDE que compile e execute essa linguagem de programação, no caso do projeto, foi utilizao o Code::Blocks e o compilador Mingw do GCC como já descrito, não precisando de nenhuma outra ferramenta adicional ou especial, esse programa pode ser obtido no link acima, mas também, pode estar sendo utilizado outros softwares para o desenvolvimento deste projeto ou similiar.
+* Para executar o programa na linguagem C, no qual o algoritmo foi realizado, necessita apenas de um compilador e uma IDE que compile e execute essa linguagem de programação, no caso do projeto, foi utilizado o Code::Blocks e o compilador Mingw do GCC como já descrito, não precisando de nenhuma outra ferramenta adicional ou especial, esse programa pode ser obtido no link acima, mas também, pode estar sendo utilizado outros softwares para o desenvolvimento deste projeto ou similar.
 
 ### Desenvolvimento
 * Git clone https://github.com/murilodepa/Jogo-do-Quebra-Cabeca-do-9
 * Se realizar "Download ZIP", necessita de um descompactador de arquivos.
-* Após ter instalado o Code::Blocks ou outro programa similiar, execute-o e selecione "arquivo" e depois "abrir projeto".
+* Após ter instalado o Code::Blocks ou outro programa similar, execute-o e selecione "arquivo" e depois "abrir projeto".
 * Selecione o diretório onde está salvo o arquivo e depois selecione a opção abrir.
 * Logo em seguida, selecione a opção executar e o jogo começará.
 
