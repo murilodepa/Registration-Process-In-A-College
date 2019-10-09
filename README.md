@@ -43,7 +43,7 @@
 * Para executar o programa na linguagem C, no qual o algoritmo foi realizado, necessita apenas de um compilador e uma IDE que compile e execute essa linguagem de programação, no caso do projeto, foi utilizado o Code::Blocks e o compilador Mingw do GCC como já descrito, não precisando de nenhuma outra ferramenta adicional ou especial, esse programa pode ser obtido no link acima, mas também, pode estar sendo utilizado outros softwares para o desenvolvimento deste projeto ou similar.
 
 ### Desenvolvimento
-* Git clone https://github.com/murilodepa/Jogo-do-Quebra-Cabeca-do-9
+* Git clone https://github.com/murilodepa/Processo-de-Matriculas-em-Uma-Faculdade
 * Se realizar "Download ZIP", necessita de um descompactador de arquivos.
 * Após ter instalado o Code::Blocks ou outro programa similar, execute-o e selecione "arquivo" e depois "abrir projeto".
 * Selecione o diretório onde está salvo o arquivo e depois selecione a opção abrir.
