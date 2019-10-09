@@ -47,7 +47,7 @@
 * Se realizar "Download ZIP", necessita de um descompactador de arquivos.
 * Após ter instalado o Code::Blocks ou outro programa similar, execute-o e selecione "arquivo" e depois "abrir projeto".
 * Selecione o diretório onde está salvo o arquivo e depois selecione a opção abrir.
-* Logo em seguida, selecione a opção executar e o jogo começará.
+* Logo em seguida, selecione a opção executar e o programa começará a ser executado.
 
 ### Contribuições
 - Contribuições e possíveis melhorias no meu ponto de vista são sempre bem-vindas.
