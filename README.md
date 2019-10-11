@@ -50,4 +50,4 @@
 * Logo em seguida, selecione a opção executar e o programa começará a ser executado.
 
 ### Contribuições
-- Contribuições e possíveis melhorias no meu ponto de vista são sempre bem-vindas.
+- Contribuições e possíveis melhorias, no meu ponto de vista são sempre bem-vindas.
